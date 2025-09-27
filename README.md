@@ -88,6 +88,16 @@ Directorio temporal: en TEMP_DIR
 Este script no reemplaza un IDS profesional (como Snort, OSSEC o Wazuh).
 Es una herramienta ligera de detección temprana, ideal para entornos pequeños o pruebas de laboratorio.
 
+🚧 Roadmap
+
+- [ ] Alertas en tiempo real (email, Slack, Discord)
+- [ ] Reporte diario en formato HTML
+- [ ] Bloqueo automático de IPs con múltiples intentos fallidos
+- [ ] Honeypot ligero para detectar escaneo de puertos
+- [ ] Exportación de resultados en JSON para SIEM
+- [ ] Dashboard en consola para monitoreo en vivo
+
+
 📄 Licencia
 
 Distribuido bajo licencia MIT.
